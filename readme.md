@@ -1,4 +1,4 @@
-# Web development with Golang
+Web development with Golang
 
 Проект - веб приложение для бронирования комнат в отелях
 
